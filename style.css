@@ -1,3 +1,23 @@
+strong {
+    font-weight: normal;
+}
+
+em {
+    font-style: normal;
+}
+
+#bloc-4-portfolio a {
+    max-width: 320px;
+}
+
+.row-no-gutters {
+    margin: 20px auto !important;
+}
+
+.row-no-gutters .fa {
+    margin: 10px 0 !important;
+}
+
 *:focus {
     border: 3px groove aqua !important;
 }
