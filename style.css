@@ -1,3 +1,17 @@
+.bloc-center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.center-1 a {
+    margin: auto !important;
+}
+
+.bloc-center div {
+    margin: 10px 30px;
+}
+
 strong {
     font-weight: normal;
 }
@@ -37,10 +51,7 @@ em {
 }
 
 #bloc-6 h1,
-#bloc-6 p {
-    color: #400080 !important;
-}
-
+#bloc-6 p,
 #bloc-8 p {
     color: #004080 !important;
 }
