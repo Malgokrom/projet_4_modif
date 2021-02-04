@@ -33,7 +33,7 @@ em {
 }
 
 *:focus {
-    border: 3px groove aqua !important;
+    outline: 3px groove aqua !important;
 }
 
 #bloc-1-hero h1,
@@ -819,7 +819,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(80, 70, 50, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
